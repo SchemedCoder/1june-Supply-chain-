@@ -1,0 +1,3 @@
+shipment_id,vendor_id,warehouse_id,status,delivery_delay_days,event_time,ingest_time
+1,4,10,DELIVERED,1,2026-03-10,2026-03-11
+2,7,2,DELAYED,4,2026-03-12,2026-03-16
