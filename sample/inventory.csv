@@ -1,1 +1,5 @@
+warehouse_id,product_id,stock_quantity,last_updated
+1,1,500,2026-04-01
+1,2,300,2026-04-01
+1,3,120,2026-04-01
 
